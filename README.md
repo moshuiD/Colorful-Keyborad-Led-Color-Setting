@@ -17,3 +17,4 @@ This is a software to change Colorful laptop's keyboard Led colorful.
 +  1.Confirm "InsydeDCHU.dll" and my software in same path  
 +  2.Accept disclaimers  
 +  3.Software UI are Chinese google translate can help you :D  
+[]("")
