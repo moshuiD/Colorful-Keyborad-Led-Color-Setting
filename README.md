@@ -1,6 +1,6 @@
 # Colorful Keyborad Led Color Setting
 Colorful Keyborad Led Color Setting  
-My laptop is COLORFUL 将星x15 at 2022.  
+My laptop is [COLORFUL 将星x15 at 2022](https://www.colorful.cn/product_show.aspx?mid=158&id=13).  
 <s>也许神舟笔记本也可以使用这个调节键盘灯</s>  
 [English introduce](#english)  
 [中文介绍](#中文)  
