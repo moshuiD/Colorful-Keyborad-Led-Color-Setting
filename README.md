@@ -1,6 +1,6 @@
 # Colorful Keyborad Led Color Setting
 Colorful Keyborad Led Color Setting  
-[English introduce]() [中文介绍]()
+[English introduce](https://github.com/moshuiD/Colorful-Keyborad-Led-Color-Setting/blob/main/README.md#english) [中文介绍]()
 # English  
 This is a software to change Colorful laptop's keyboard Led colorful.  
 ## Why I build it?  
