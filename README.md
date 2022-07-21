@@ -19,3 +19,6 @@ This is a software to change Colorful laptop's keyboard Led colorful.
 +  2.Accept disclaimers  
 +  3.Software UI are Chinese google translate can help you :D  
 +  ![](https://github.com/moshuiD/Colorful-Keyborad-Led-Color-Setting/blob/main/ui.png)  
++  ## Disclaimers  
++  1.Powered by moshui.
++  2.If have any hardware damage.I have not any duty to pay for it.  
