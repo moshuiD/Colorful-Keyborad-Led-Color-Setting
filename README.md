@@ -2,7 +2,7 @@
 Colorful Keyborad Led Color Setting  
 My laptop is [COLORFUL 将星x15 at 2022](https://www.colorful.cn/product_show.aspx?mid=158&id=13).  
 <s>也许神舟笔记本也可以使用这个调节键盘灯</s>  
-[English introduce](#english)  
+[English introduction](#english)  
 [中文介绍](#中文)  
 # English  
 This is a software to change Colorful laptop's keyboard Led colorful.  
@@ -27,7 +27,7 @@ This is a software to change Colorful laptop's keyboard Led colorful.
 
 # 中文  
 此程序可以修改七彩虹笔记本键盘灯颜色  
-+ ##为什么制作它？
++ ## 为什么制作它？
 + 我在2022年9月1日会成为大一新生。为了学习买了这个[七彩虹](https://www.colorful.cn/)笔记本.这个笔记本一切都很让我满意，就是这个键盘灯他没有RGB循环和自定义颜色功能。为了弥补这个，我写了此程序  
 + ## 怎么制作的？  
 + 首先使用dnspy查看源代码和调试  
