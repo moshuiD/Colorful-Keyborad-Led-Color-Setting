@@ -46,7 +46,7 @@ This is a software to change Colorful laptop's keyboard Led colorful.
 
 # Fork 修改版 (by eryuemu)
 
-本项目为个人 Fork 修改版，主要进行了界面美化以及底层运行优化。
+主要进行了界面美化以及底层运行优化。
 
 ## 🌟 主要改动与优化特性
 
